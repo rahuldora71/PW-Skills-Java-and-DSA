@@ -1,4 +1,4 @@
-package Operator_PQ;
+package Loops_PQ;
 
 import java.util.Scanner;
 
