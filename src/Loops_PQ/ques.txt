@@ -1,0 +1,5 @@
+Q1. Write a Java program to calculate the sum of natural numbers up to a given positive integer 'n'.
+Q2. Write a Java program to print a multiplication table for a given number 'n'.
+Q3. Write a Java program to find the GCD (Greatest Common Divisor) of two numbers using a loop.
+Q4. Write a Java program to check if a given string is a palindrome or not using a loop.
+Q5. Write a Java program to generate and print the first 'n' terms of the Fibonacci series.
